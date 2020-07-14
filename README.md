@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Cristian.
 
-<!--
-**crhenr/crhenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
 
-Here are some ideas to get you started:
+## I'm a student and R&D developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm currently working with information security.
+* Main programming languages: C, Java and Python.
+* Certifications: Linux+, LPIC-1.
+* Research interests: information security, privacy, malware analysis, AI.
+* Other skills: ethical hacking, penetration testing, Linux, Docker, ModSecurity, Git, SQL.
+* 🐡 OpenBSD user.
+* 🔗 [Website](https://crhenr.xyz).
+
+<p align="center">
+    <a href=""><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
+    <a href=""><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
+    <a href=""><img height="35" src="https://crhenr.xyz/imgs/logos/medium_logo.svg"></a>&nbsp;&nbsp;
+    <a href=""><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
+    <a href=""><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
+</p>
