@@ -15,9 +15,8 @@
 * 🔗 [Website](https://crhenr.xyz).
 
 <p align="center">
-    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/crhenr"><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@crhenr"><img height="35" src="https://crhenr.xyz/imgs/logos/medium_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/crhenr"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/crhenr"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/crhenr"><img height="35" src="imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@crhenr"><img height="35" src="imgs/medium_logo.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/crhenr"><img height="35" src="imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
 </p>
